@@ -8,4 +8,7 @@ public class Demo_Git {
 	private void Demo_Update() {
 		System.out.println("Update checking");
 	}
+	private void Demo_Owncheck() {
+		System.out.println("Checking own");
+	}
 }
